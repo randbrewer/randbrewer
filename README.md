@@ -1,5 +1,4 @@
-# Randy Brewer
-HR guy that reads notes and occasionally codes.
+Hi.
 
 <!---
 randbrewer/randbrewer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
